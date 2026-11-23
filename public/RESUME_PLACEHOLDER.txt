@@ -1,0 +1,3 @@
+Resume placeholder
+
+Place the real Harshitha_Badam_Resume.pdf in the public folder and update the Download Resume button in src/App.jsx.
